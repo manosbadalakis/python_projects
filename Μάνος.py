@@ -1,4 +1,4 @@
-# Copyright (c) 2021. Manos E. Badalakis. All Rights Reserved.
+# Copyright (c) 2021. Manos E. Badalakis. All Rights Reserved..
 print("Finally I Found A Way To Communicate With You")
 
 # exercise ------------------- ΑΣΚΗΣΗ -------------------
